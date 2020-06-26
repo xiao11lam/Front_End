@@ -1,4 +1,4 @@
-# JS-componets
+# Img/Dashboard for crude oil
 Retrived From: http://oil-price.net/dashboard.php
 <div align="center">
   <img src="Img/Dashboard for crude oil.png" width = "50%" height = "50%">
